@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PaulKiiru
+- 👋 Hi, I’m @PK
 - 👀 I’m interested in contributing and craeting projects
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
